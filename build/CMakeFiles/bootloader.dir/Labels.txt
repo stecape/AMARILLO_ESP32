@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Proj/PlatformIO/Projects/Training/build/CMakeFiles/bootloader
+C:/Proj/PlatformIO/Projects/Training/build/CMakeFiles/bootloader.rule
+C:/Proj/PlatformIO/Projects/Training/build/CMakeFiles/bootloader-complete.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Proj/PlatformIO/Projects/Training/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
